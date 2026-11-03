@@ -1,0 +1,18 @@
+{
+  "title": "Counter feature fixture",
+  "sourceFiles": [
+    "Counter.tsx"
+  ],
+  "targetDir": "native",
+  "expectedSwiftFiles": [
+    "Counter.swift"
+  ],
+  "behaviors": [
+    {
+      "id": "increment",
+      "description": "Tap increases the count by one."
+    }
+  ],
+  "testNames": [],
+  "sourceLicense": "Project-owned synthetic example, MIT"
+}
